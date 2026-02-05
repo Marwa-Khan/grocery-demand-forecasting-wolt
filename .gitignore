@@ -1,0 +1,5 @@
+applied-science-internship-2026/ 
+*.csv 
+__pycache__/ 
+.venv/ 
+.env 
